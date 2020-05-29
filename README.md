@@ -1,0 +1,2 @@
+# Disaster-Detection
+A data of various tweets based on their locations were provided and it was to be detected whether each tweet depicts a real disaster or a fake one. NLP's NLTK library was used to create a model to study the tweets converting them into a vector and then various Machine Learning models were used to predict whether the tweets were about real disaster or not. Based on the model locations were detected where actual disasters were happening.
